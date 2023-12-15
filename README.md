@@ -6,7 +6,7 @@
 
 - 👨🏽‍💻 I'm currently a CSE undergrad student at Graphic Era Hill University, Dehradun Campus
 - 🌱 I'm currently exploring Machine Learning and Neural Networks
-- 💬 Ask me about Data structures, Algorithms and Neural Networks
+- 💬 Talk to me about Data structures, Algorithms and Neural Networks
 - 👯 My interest lies in Machine Learning and deep learning
 - 📫 reach me at <a href="mailto:ayushgr1128@gmail.com">Ayush Garg</a>
 
