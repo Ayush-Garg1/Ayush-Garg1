@@ -12,38 +12,33 @@
 
 
 # MY Github Stats
-<table>
+<table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Ayush-Garg1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=algolia"   />
+      <img src="https://github-readme-stats.vercel.app/api?username=Ayush-Garg1&theme=gotham&show_icons=true&hide_border=true&count_private=true"   />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Ayush-Garg1&theme=algolia&hide_border=true" />
-    </td>                           
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-Garg1&theme=react-dark&hide_border=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-Garg1&theme=gotham&hide_border=true" />
     </td>
   </tr>
 </table>
 
-<p align="left">
-  <table>
-    <tr>
-      <td><h3>Programming Languages</h3>
-  <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C " width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++ " width="40" height="40"/> </a> 
-<!--<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> -->
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java " width="40" height="40"/> </a> 
-<!--<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> -->
-<!--<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> -->
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python " width="40" height="40"/> </a> <!--<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>--> </p>
-      </td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-Garg1&theme=gotham&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Garg1&theme=gotham&show_icons=true&hide_border=true&layout=compact" width="100%" style="vertical-align:middle" width="250" height="200" />
+    </td>
+  </tr>
+</table>
+
 
 
 <!--
