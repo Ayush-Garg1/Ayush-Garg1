@@ -40,6 +40,15 @@
 </table>
 
 
+<h3> Connect with me: </h3>
+<p float="left">
+  <a href = "https://www.linkedin.com/in/ayush-garg-8b75a6200/"> <img width = "50" height = "50" src ="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"></a>   
+  <a href = "https://leetcode.com/Ayush-Garg1/"> <img width = "50" height = "50" src="https://i.pinimg.com/originals/73/e1/54/73e15422011e763ea9b303a7738e71a3.gif"</a>  
+<!--   <a href = "https://discordapp.com/users/811264112637247519/"> <img width = "50" height = "50" src ="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif"></a> -->
+</p>
+
+
+
 
 <!--
 **Ayush-Garg1/Ayush-Garg1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
